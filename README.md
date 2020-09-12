@@ -1,3 +1,6 @@
+## Live Update
+Open [https://xbard-b2b3d.web.app/](https://xbard-b2b3d.web.app/) to view it in the browser.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
